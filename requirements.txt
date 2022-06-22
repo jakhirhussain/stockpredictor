@@ -16,7 +16,7 @@ lunardate==0.2.0
 lxml==4.5.0
 matplotlib==3.2.1
 more-itertools==8.2.0
-numpy==1.18.2
+numpy==1.22.0
 pandas==1.0.3
 plotly==4.6.0
 PyMeeus==0.3.7
