@@ -9,7 +9,7 @@ fbprophet==0.6
 holidays==0.10.1
 idna==2.9
 inflection==0.4.0
-joblib==0.14.1
+joblib==1.2.0
 kiwisolver==1.2.0
 LunarCalendar==0.0.9
 lunardate==0.2.0
